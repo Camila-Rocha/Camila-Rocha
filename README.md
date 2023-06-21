@@ -12,8 +12,6 @@ Sou estudante de Análise e desenvolvimento de sistemas, e atualmente me aperfei
 </div>
 
 ##
-![Camila-Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=Camila-Rocha&show_icons=false&theme=synthwave)
-##
 
 <div>
   
