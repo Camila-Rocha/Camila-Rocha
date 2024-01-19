@@ -1,6 +1,6 @@
 ##
-### Oi, eu sou a Camila!
-Sou estudante de Análise e desenvolvimento de sistemas, e atualmente me aperfeiçoando em React e JavaScript. Estou entusiasmada e apaixonada pela área que escolhi pra vida!
+### Olá, tudo bem? eu sou a Camila!
+Atualmente estou cursando pós em Engenharia de Software e em busca de uma nova oportunidade na área de Backend C# ou Full Stack. Em breve quero incluir um projeto bem legal aqui pra vocês. 
 ##
 
 <div>
