@@ -1,6 +1,5 @@
 ##
-### Olá, tudo bem? eu sou a Camila!
-Atualmente estou cursando pós em Engenharia de Software e em busca de uma nova oportunidade na área de Backend C# ou Full Stack. Em breve quero incluir um projeto bem legal aqui pra vocês. 
+### Olá, tudo bem? eu sou a Camila! 
 ##
 
 <div>
